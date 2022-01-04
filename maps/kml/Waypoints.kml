@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"    
      xmlns:atom="http://www.w3.org/2005/Atom">
     <Document>
-        <name><![CDATA[Waypoints]]></name>
+        <name><![CDATA[Own_Waypoints]]></name>
         
                                     
         <description><![CDATA[<br/><p> </p><p><br/>Converted using <b><a href='http://gpx2kml.com' title='Go to gpx2kml.com'>gpx2kml.com</a></b></p><br/>]]></description>
