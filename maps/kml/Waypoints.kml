@@ -149,7 +149,7 @@
                                 
                 <description>
                     No info available                </description>
-                 <styleUrl>#blue</styleUrl> 
+                 <style>#blue</style> 
                 <LookAt>
                     <longitude>7.5410502</longitude>
                     <latitude>47.372804</latitude>
