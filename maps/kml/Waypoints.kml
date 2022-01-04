@@ -149,15 +149,7 @@
                                 
                 <description>
                     No info available                </description>
-                 <Style>
-                <IconStyle>
-                    <scale>1</scale>
-                    <color>ffff0000</color>
-                    <Icon>
-                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-                    </Icon>
-                </IconStyle>
-            </Style>
+                 <styleUrl>#blue</styleUrl> 
                 <LookAt>
                     <longitude>7.5410502</longitude>
                     <latitude>47.372804</latitude>
