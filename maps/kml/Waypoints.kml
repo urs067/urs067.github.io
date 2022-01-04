@@ -149,7 +149,7 @@
                                 
                 <description>
                     No info available                </description>
-                 <style>#blue</style> 
+                 <iconstyle>#blue</iconstyle> 
                 <LookAt>
                     <longitude>7.5410502</longitude>
                     <latitude>47.372804</latitude>
@@ -176,15 +176,7 @@
                                 
                 <description>
                     No info available                </description>
-                 <Style>
-                <IconStyle>
-                    <scale>1</scale>
-                    <color>ffff0000</color>
-                    <Icon>
-                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-                    </Icon>
-                </IconStyle>
-            </Style>
+                 <iconstyle>#blue</iconstyle>
                 <LookAt>
                     <longitude>7.579913</longitude>
                     <latitude>47.4421225</latitude>
