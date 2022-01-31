@@ -1,0 +1,2603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Waypoints</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Quelle, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.103174,47.286152,855.47
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quelle. Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.103088,47.286239,825.63
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.101375,47.285882,859.66
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.051589,47.28296,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quelle, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.136876,47.332405,12.91
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WC</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.114998,47.334716,703.95
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.115031,47.334722,706.61
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere la Moree</name>
+      <description>- Unterstand, einseitig offen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.185349,47.332643,740
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.180804,47.354251,594.22
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere Boecourt</name>
+      <description>- Unterstand</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.202887,47.354653,730
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane des Chenes</name>
+      <description><![CDATA[- Unterstand, einseitig offen<br>Cheminee im Innern]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.221005,47.35835,570
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere le Crau-Loup</name>
+      <description><![CDATA[- Unterstand, einseitig offen, Vorhang am Eingang<br>Brunnen]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.970754,47.233301,1060
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Refuge des Sommetes</name>
+      <description><![CDATA[- Unbewartete Hütte, immer offen<br>Holzherd,  Pfannen, Geschirr und Besteck<br>Wasser aus kleiner Zisterne<br>7 Liegeplätze mit Matrazen und Decken<br>Elektrisches Licht<br>WC]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.965615,47.2365,1081
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere les Echos</name>
+      <description>- Unterstand, einseitig offen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.117948,47.384436,675
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Höhle Roches de St-Nicolas</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.113652,47.38466,598.63
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere du Pichoux</name>
+      <description><![CDATA[- Unterstand, einseitig offen, mit Schiebetür am Eingang<br>Cheminee im Innern<br>Liegeplätze im Obergeschoss, keine Matratzen, keine Decken<br>WC mit Wasserspühlung im Nebengebäude<br>Brunnen]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.137087,47.390945,565
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.070724,47.387593,499.16
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane du Sacy</name>
+      <description>- Unterstand, einseitig offen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.330327,47.327203,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Refuge le Cerneux</name>
+      <description><![CDATA[- Unterstand, einseitig offen, Schiebetüre am Eingang<br>Cheminee im Innern<br>Spühlbecken mit Wasser, WC mit Wasserspühlung]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.234519,47.389431,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.925732,47.223991,559.6
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere de la Cotatte</name>
+      <description><![CDATA[- Unterstand, einseitig offen<br>Cheminee im Innern]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.344869,47.321945,610
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.367232,47.28208,593.57
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.367224,47.282122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.373629,47.257957,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere le Bezout</name>
+      <description><![CDATA[- Unterstand, einseitig offen, Schiebetüre am Eingang<br>Cheminee im Innern]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.293278,47.372036,605
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere Stauffer Andreas</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.951064,47.165209,1065
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere de Cornol</name>
+      <description><![CDATA[- Unterstand, einsetig offen, mit Vorhang am Eingang<br>Cheminee im Innern]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.17451,47.408279,540
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.3788,47.257549,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.381785,47.258005,1185.7
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere la Chouette</name>
+      <description><![CDATA[- Unterstand, einseitig offen, Rollo am Eingang<br>Cheminee im Innern]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.32104,47.372985,510
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.900342,47.210981,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere Chevenez</name>
+      <description><![CDATA[- Unterstand, einseitig offen, Vorhang am Eingang<br>Cheminee im Innern<br>Obergeschoss]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.989478,47.396933,550
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere</name>
+      <description>- Unterstand, einseitig offen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.258854,47.419207,740
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane de Fromont</name>
+      <description><![CDATA[- Unbewartete Hütte, immer offen<br>Brunnen 200m SW am Wanderweg<br>Kein Strom, kein elektrisches Licht<br>Holzofen<br>Wenig Geschirr, Pfannen<br>Wenig zurückgelassene Lebensmittel<br>4 Liegestellen, keine Matrazen]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.881889,47.199382,651
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere de Miecourt</name>
+      <description><![CDATA[- Unterstand, einseitig offen<br>Obergeschoss]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.167114,47.437511,530
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>- Unterstand, zweiseitig offen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.32135,47.394175,567
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.881131,47.198246,690.9
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.105684,47.437087,526.52
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere les Anglards</name>
+      <description><![CDATA[- Unterstand, einseitig offen, mit Vorhang am Eingang<br>Cheminee im Innern]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.118741,47.43996,520
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.42472,47.283625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.426157,47.282738,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere les Grisettes</name>
+      <description><![CDATA[- Untetstand, einseitig offen, Vorhang am Eingang<br>Cheminee im Innern]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.16505,47.447067,517
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere Reclere</name>
+      <description>- Untertand, einseiti offen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.923177,47.380943,630
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere de Movelier</name>
+      <description><![CDATA[- Unterstand, einseitig offen<br>Spühlbecken mit Wasser<br>WC mit Wasserspühlung (abgeschlossen)]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.315981,47.413687,780
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.328233,47.409305,667.42
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pilz</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.440702,47.265501,1123.54
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiete de Soyhieres</name>
+      <description>- Untetstand (abgeschlossen) mit gedecktem Vorplatz</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.366845,47.396326,520
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hütte</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.427656,47.33509,553.3
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere Devant Rosier</name>
+      <description><![CDATA[- Unterstand, einseitig offen, mit Schiebetür am Eingang<br>Cheminee im Innern]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.082268,47.460324,511
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.23388,47.457493,533.59
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.235593,47.457422,552.97
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.266691,47.450447,746.06
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pilz</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.351444,47.415024,940.51
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.46227,47.248985,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere les Cotaies</name>
+      <description><![CDATA[- Unterstand, einseitig offen, mit Schiebetürm am Eingang<br>Cheminee im Innern]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.115278,47.468857,440
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.465511,47.261058,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.470543,47.264001,741.82
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere les Ronds Prerats</name>
+      <description><![CDATA[- Unterstand, einseitig offen, Schiebetüre am Eingang<br>Cheminee im Innern]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.178883,47.473362,455
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.26668,47.459592,590.58
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand Col du Neuneich</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.305384,47.453696,746.99
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hütte</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.39097,47.412156,714.03
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere du Plain Fayen</name>
+      <description><![CDATA[- Unterstand, einseitig offen, Schiebetüre am Eingang (abgeschlossen) mit gedecktem Vorplatz<br>Brunnen]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.469926,47.33172,700
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.482376,47.308074,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere de Courchapoix</name>
+      <description><![CDATA[- Unterstand, einseitig offen<br>Brunnen in der Stützmauer]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.457013,47.369355,860
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere du Rond-Bois</name>
+      <description><![CDATA[- Unterstand, einseitig offen, mit Schiebetür am Eingang<br>Cheminee im Innern<br>Brunnen]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.015456,47.480066,495
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.281952,47.485237,558.54
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.281873,47.486158,565.13
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.281592,47.487728,589.69
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere du Mont Renaud</name>
+      <description>- Unterstand</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.03278,47.496173,506
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aussichtsturm Mont Renaud</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.03405,47.496645,506
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grüenholzhütte</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.519989,47.286971,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.508406,47.324905,749.24
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abri du Baumschüelhissla</name>
+      <description>- Untetstand, einseitig offen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.275022,47.496589,597
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen ,Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.50462,47.341803,563.08
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.380016,47.465321,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.278052,47.504176,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.299724,47.498914,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.366787,47.474594,459.34
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quelle, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.440428,47.430832,546.22
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.508148,47.360871,598.95
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere la Gravalonne</name>
+      <description><![CDATA[- Unterstand, einseitig offen, mit Schiebetür am Eingang<br>Cheminee im Innern (abgeschlossen)]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.522243,47.336164,670
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.367113,47.476162,459.01
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen ,Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.509542,47.360688,583.89
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.43682,47.437816,605.9
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wasser, Reservoir</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.564895,47.26885,999.93
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.438973,47.457513,562.33
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.442304,47.457282,490.79
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.471953,47.444108,634.79
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.54105,47.372804,454.54
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pilz</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.459954,47.456767,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.568664,47.321346,1112.58
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen ,Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.498506,47.426173,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestiere des Roches de Moron</name>
+      <description>- Unterstand, dreiseitig offen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.755844,47.098767,1100
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.428868,47.499213,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.495617,47.48101,502.25
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.579913,47.442122,377.64
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.554641,47.478929,356.05
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.639667,47.378522,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.577486,47.471375,350.59
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pilz</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.647845,47.385334,887.08
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.648899,47.385948,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.583284,47.470314,338.54
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quelle, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.615958,47.45508,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quelle, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.620045,47.457659,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Schmiedengasse 42 Oberwil</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.556418,47.515918,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.661885,47.409111,694.96
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.683634,47.412616,599.42
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Schutzhütte Holzenberg</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.682731,47.421901,721.11
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.667539,47.447051,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trinkwasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.709393,47.395717,751.36
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quelle, Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.709552,47.39578,788.17
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.710545,47.395627,817.31
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.7111,47.395643,766.77
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.711158,47.395599,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Steinpilz</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.730246,47.356292,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.715796,47.402311,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen. Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.629577,47.510467,388.26
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.703515,47.43002,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hütte</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.754324,47.337812,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasset</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.754424,47.337812,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand Wolfenried</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.668485,47.489209,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Quelle, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.671062,47.486978,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.746904,47.3815,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waldhütte Frenkendorf</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.66954,47.495368,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La  cabane du Mongo</name>
+      <description>- Waldhütte mit Tür, Liegemöglichkeiten auf Bretterboden</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.599514,47.026883,960
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.681118,47.495322,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.744706,47.43317,513.79
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.635363,47.548832,283.45
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.744772,47.438334,515.56
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.590202,47.010118,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.743819,47.443524,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.709334,47.498676,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.712704,47.502356,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.812341,47.3527,934.4
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Untetstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.812341,47.3527,935.42
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.721697,47.502559,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.732718,47.497495,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quelle, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.827702,47.354687,645.46
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Begehbare römische Wasserleitung</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.72401,47.52123,297.36
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edletenhütte</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.772724,47.483425,547.42
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.742702,47.518477,392.72
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.811746,47.437159,440.18
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Biwakhöhle</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.742648,47.533554,339.54
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.820855,47.434205,522.29
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>- Unterstand, dreiseitig offen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.744847,47.533284,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waldhaus Kaiseraugst</name>
+      <description><![CDATA[- Unterstand, einseitig offen<br>Cheminee im Innern]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.749239,47.530636,370
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waldhütte Nusshof</name>
+      <description>- Unterstand, dreiseitig offen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.788277,47.487713,605
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>w
+Wasser, Brunnen, aus Reservoir</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.825044,47.442207,642.54
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.828647,47.441992,589.24
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>- Unnterstand, dreiseitig offen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.763794,47.52972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand Stöcklibode</name>
+      <description>- Windschiefer Holzschopf, einseitig offen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.793384,47.49743,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.834908,47.46231,396.93
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mannschaftsunterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.868278,47.402873,835.67
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.835575,47.464107,399.56
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.826746,47.484513,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.826747,47.484648,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.83306,47.476465,664.11
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.791532,47.529675,426.75
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Isletenhütte</name>
+      <description>- Unterstand, dreiseitig offen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.832,47.48081,735
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.881422,47.407436,907.81
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.881711,47.407306,888.91
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.881758,47.407324,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.862752,47.445306,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.885208,47.404073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.910766,47.380585,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.851423,47.492859,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kastanienbäume</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.810921,47.54515,323.98
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.816857,47.539544,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kastanienbäume</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.815995,47.543667,355.45
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.897319,47.445938,616.95
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasset</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.919023,47.404094,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.869796,47.496322,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.864733,47.505556,439.83
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.866039,47.504762,478.25
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.866147,47.504792,472.04
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.846544,47.532711,613.16
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.907017,47.456006,617.54
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waldhütte</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.948361,47.405004,732.95
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.910947,47.483575,569.37
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quelle, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.451906,46.92257,1203.98
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand im Spitzgrabe</name>
+      <description>- Unterstand, einseitig offen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.896572,47.539636,518
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabane forestietele grand TaureU</name>
+      <description>- Unterstand mit Tür, Liegemöglichkeiten auf Betonboden</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.42675,46.913428,1290
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          7.959113,47.49311,724.41
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.006717,47.437537,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wasser,Brunnen ab Reservoir</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.034948,47.421825,491.18
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.042542,47.418362,431.15
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.043402,47.417868,453.57
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.044462,47.416733,446.29
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.046782,47.418038,439.56
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.048368,47.419321,448.86
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.05428,47.421919,429.61
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.054395,47.421997,403.5
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zisterne, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.431238,46.8281,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gedeckter Sitzplatz</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.052807,47.461433,570.33
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.02972,47.527094,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.042272,47.509462,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.082555,47.450684,636.71
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.082597,47.450706,653.11
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Refuge de la Joux</name>
+      <description>- Waldhütte mit Tür, Holzofen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.434338,46.793235,1173
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.099068,47.435468,468.57
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.103425,47.438057,475.52
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen. Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.10119,47.444639,574.01
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasset</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.073214,47.516578,477.57
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.074681,47.519886,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waldhütte Wettacker</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.07954,47.512928,610.08
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Forsthütte Kaisten</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.05993,47.54425,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.102389,47.490356,402.78
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.066544,47.55243,551.61
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.129865,47.439924,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.130136,47.440327,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.130099,47.440431,404.17
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.131082,47.445203,491.01
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.074306,47.550472,542.9
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waldhütte Gänter</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.09566,47.52181,623.28
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waldhütte Gänter</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.095723,47.521882,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sulgerhütte</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.073128,47.557843,344.18
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen ,Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.124414,47.472324,534.97
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen. Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.129095,47.470184,568.57
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ribiwinkelhütte</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.085792,47.550712,436.36
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand Ampfernhöhe</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.123554,47.518909,607.63
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.393826,46.726625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.162842,47.532604,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.174829,47.53004,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.171309,47.54434,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen ,Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.171372,47.54451,492
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.185547,47.546161,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen ,Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.165556,47.578322,545.38
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.250136,47.512539,522.34
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Refuge de la Place a Fourneau</name>
+      <description>- Unterstand mit Tür, Holzofen, Liegemöglichkeiten auf Bretterboden</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.309573,46.698796,1069
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.30722,46.698773,1080
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.256925,47.510618,582.94
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Refuge de la Fivaz,-a-Mayor</name>
+      <description>- Waldhütte mit Tür, Holzofen, 3 Liegestellen mit 1 Matraze, Zisterne</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.299772,46.689837,1170
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterstand</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.28518,47.50447,213.43
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunmen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.984403,46.445771,1577.47
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Refuge du Poste des Mines</name>
+      <description>- Unbewartete Hütte, Esssaal mit Holzofen, Kochutensilien und Geschirr, Liegemöglichkeiten auf Bretterboden im Dachstock, Wasser aus Zisterne, WC</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.203246,46.632711,1367
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zisterne, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.286405,46.55538,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Refuge de la Reserve</name>
+      <description>- Waldhütte mit Tür, Holzofen, Liegemöglichkeiten auf Bretternoden</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.175825,46.593931,1198
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Refuge forestiete du Bois des Caboules</name>
+      <description>- Waldhütte mit Tür, Holzofen, 4 Liegeplätze mit Matrazen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.188956,46.546412,1340
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Refuge de l,'Hotel d'Italie]]></name>
+      <description>- Unbewartete Hütte, Holzofen, Schlafsaal im Obergeschoss, keine Matrazen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.127072,46.572705,1280
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Refuge de la Gare du Nord</name>
+      <description>- Unterstand mit Tür, Holzofen, Liegemöglichkeiten auf Bretterboden</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.118529,46.573677,1290
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chalet d-Alpage la Petite Chaux</name>
+      <description>- Unbewartete Hütte, offene Feuerstelle im Haus, 4 Liegeplätze mit Stroh im Dachgeschoss</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.184398,46.526443,1410
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quelle, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.116316,46.434518,1398.4
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abri les Tuffes</name>
+      <description>- Unterstand mit Türe, Liegemöglichkeiten auf  Betonboden</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.061231,46.440391,1359
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alpage la Vesanciere</name>
+      <description>- Unbewartete Hütte, offene Feuerstelle im Haus, Liegemöglichkeiten auf  Bretterboden im Dachstock</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          6.074159,46.37863,1425
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zisterne, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          5.898199,46.214808,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Refuge du Gralet</name>
+      <description>- Unbewartete Hütte, Küche mit Gasherd, Kochutensilien und Geschirr, 15 Liegeplätze mit Matrazen, WC, Wasser aus Zisterne</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          5.898242,46.214526,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Cabane d'Alpage la Poutouille]]></name>
+      <description>- Alphütte mit Tür, Holzofen, 6 Liegeplätze, WC</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          5.87015,46.1879,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chalet du Sac</name>
+      <description>- Alphütte mit Tür, Holzofen, 6 Liegeplätze mit Matrazen</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          5.86688,46.16236,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.860019,46.392481,1608.34
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.859904,46.392281,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.667968,46.123072,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunnen, Wasser</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          8.693582,46.134149,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wendepunkt Nationalpark</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          10.121376,46.651927,1894.1
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Volg Müstair</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          10.446367,46.628205,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Via Muglin 228 Müstair</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          10.44969,46.623814,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unterkunft. Partschins</name>
+      <description>No info available</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          11.070946,46.684489,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
