@@ -6177,22 +6177,6 @@ Brunnen, Wasser]]></name>
 </Placemark>
 <Placemark>
 <TimeStamp>
-<when>2025-05-27T09:57:20.000Z</when>
-</TimeStamp>
-<name><![CDATA[Kanonenszellung]]></name>
-<description><![CDATA[Steinmauer nit Betondach und Naturboden, zweiseitig offen]]></description>
-<styleUrl>#31</styleUrl>
-<ExtendedData>
-<om:minZoomLevel>0</om:minZoomLevel>
-<om:maxZoomLevel>25</om:maxZoomLevel>
-</ExtendedData>
-<Point>
-<altitudeMode>absolute</altitudeMode>
-<coordinates>7.8328762,47.3896119,906.00</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<TimeStamp>
 <when>2023-05-29T14:06:10.000Z</when>
 </TimeStamp>
 <name><![CDATA[Luisenhütte]]></name>
@@ -6205,6 +6189,22 @@ Brunnen, Wasser]]></name>
 <Point>
 <altitudeMode>absolute</altitudeMode>
 <coordinates>7.6960337,47.7207229,589.00</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<TimeStamp>
+<when>2025-05-27T09:57:20.000Z</when>
+</TimeStamp>
+<name><![CDATA[Kanonenszellung]]></name>
+<description><![CDATA[Steinmauer nit Betondach und Naturboden, zweiseitig offen]]></description>
+<styleUrl>#31</styleUrl>
+<ExtendedData>
+<om:minZoomLevel>0</om:minZoomLevel>
+<om:maxZoomLevel>25</om:maxZoomLevel>
+</ExtendedData>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>7.8328762,47.3896119,906.00</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -8919,22 +8919,6 @@ Cheminee im Innern]]></description>
 </Placemark>
 <Placemark>
 <TimeStamp>
-<when>2022-07-05T12:44:38.000Z</when>
-</TimeStamp>
-<name><![CDATA[Brunnen, Wasset]]></name>
-<description><![CDATA[]]></description>
-<styleUrl>#14</styleUrl>
-<ExtendedData>
-<om:minZoomLevel>0</om:minZoomLevel>
-<om:maxZoomLevel>25</om:maxZoomLevel>
-</ExtendedData>
-<Point>
-<altitudeMode>absolute</altitudeMode>
-<coordinates>7.9978971,47.4611746,435.00</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<TimeStamp>
 <when>2022-01-16T10:51:37.000Z</when>
 </TimeStamp>
 <name><![CDATA[Cabane forestiere les Cotaies]]></name>
@@ -8948,6 +8932,22 @@ Cheminee im Innern]]></description>
 <Point>
 <altitudeMode>absolute</altitudeMode>
 <coordinates>7.1152775,47.4688572,440.00</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<TimeStamp>
+<when>2022-07-05T12:44:38.000Z</when>
+</TimeStamp>
+<name><![CDATA[Brunnen, Wasset]]></name>
+<description><![CDATA[]]></description>
+<styleUrl>#14</styleUrl>
+<ExtendedData>
+<om:minZoomLevel>0</om:minZoomLevel>
+<om:maxZoomLevel>25</om:maxZoomLevel>
+</ExtendedData>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>7.9978971,47.4611746,435.00</coordinates>
 </Point>
 </Placemark>
 <Placemark>
