@@ -7,7 +7,7 @@
                                 <atom:link href="https://www.oruxmaps.com"/>
             
                             <TimeStamp>
-                <when>2026-06-19T14:29:44.635Z</when>
+                <when>2026-07-08T18:52:07.986Z</when>
             </TimeStamp> 
             
                 
@@ -1809,32 +1809,6 @@
                                                                         
             
             <Placemark>
-                <name>Quelle, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2021-06-15T11:10:47.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.6162079</longitude>
-                    <latitude>47.4550232</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.6162079,47.4550232,460.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Forsthütte Schweinel, Brunnen</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -1855,6 +1829,32 @@
                 <Point>
                     <coordinates>
                         7.5047241,47.4518888,654.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Quelle, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2021-06-15T11:10:47.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.6162079</longitude>
+                    <latitude>47.4550232</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.6162079,47.4550232,460.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -2979,32 +2979,6 @@
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-05-26T07:15:31.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.6448324</longitude>
-                    <latitude>47.5937490</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.6448324,47.5937490,293.99                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Brunnen ,Wasser</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -3025,6 +2999,32 @@
                 <Point>
                     <coordinates>
                         7.4985443,47.4260621,423.48                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-05-26T07:15:31.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.6448324</longitude>
+                    <latitude>47.5937490</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.6448324,47.5937490,293.99                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -3213,32 +3213,6 @@
                                                                         
             
             <Placemark>
-                <name>Unterstand s'Hüttli</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-05-26T05:47:01.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                     - Unterstand, zweiseitig offen                </description>       
-                <LookAt>
-                    <longitude>7.6281544</longitude>
-                    <latitude>47.6081836</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.6281544,47.6081836,320.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Brunnen, Wasser</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -3259,6 +3233,32 @@
                 <Point>
                     <coordinates>
                         7.4441383,47.5872078,330.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Unterstand s'Hüttli</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-05-26T05:47:01.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                     - Unterstand, zweiseitig offen                </description>       
+                <LookAt>
+                    <longitude>7.6281544</longitude>
+                    <latitude>47.6081836</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.6281544,47.6081836,320.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -3421,32 +3421,6 @@
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2023-06-30T18:13:30.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.6598039</longitude>
-                    <latitude>47.4331455</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.6598039,47.4331455,547.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Pilz</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -3467,6 +3441,32 @@
                 <Point>
                     <coordinates>
                         7.4267277,47.4525456,696.13                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2023-06-30T18:13:30.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.6598039</longitude>
+                    <latitude>47.4331455</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.6598039,47.4331455,547.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -3686,32 +3686,6 @@
                 <open>0</open>                        
                                                     
                 <TimeStamp>
-                    <when>2024-06-11T07:19:04.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.6219703</longitude>
-                    <latitude>47.6200049</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.6219703,47.6200049,349.21                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
                     <when>2022-11-26T06:55:55.000Z</when>
                 </TimeStamp> 
                                 
@@ -3727,6 +3701,32 @@
                 <Point>
                     <coordinates>
                         7.4938991,47.4110861,370.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2024-06-11T07:19:04.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.6219703</longitude>
+                    <latitude>47.6200049</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.6219703,47.6200049,349.21                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -4097,32 +4097,6 @@
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2024-05-20T11:30:25.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.6298761</longitude>
-                    <latitude>47.4065906</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.6298761,47.4065906,809.71                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Pilz</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -4143,6 +4117,32 @@
                 <Point>
                     <coordinates>
                         7.4154499,47.4431535,808.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2024-05-20T11:30:25.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.6298761</longitude>
+                    <latitude>47.4065906</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.6298761,47.4065906,809.71                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -4435,6 +4435,32 @@
                                                                         
             
             <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2021-06-27T08:03:52.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.6618846</longitude>
+                    <latitude>47.4091114</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.6618846,47.4091114,694.96                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
                 <name>Unterstand Leimgruebehauweg</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -4466,21 +4492,21 @@
                 <open>0</open>                        
                                                     
                 <TimeStamp>
-                    <when>2021-06-27T08:03:52.000Z</when>
+                    <when>2022-12-25T14:59:57.000Z</when>
                 </TimeStamp> 
                                 
                 <description>
                     No info available                </description>       
                 <LookAt>
-                    <longitude>7.6618846</longitude>
-                    <latitude>47.4091114</latitude>
+                    <longitude>7.3808811</longitude>
+                    <latitude>47.4664551</latitude>
                     <range>500</range>
                     <tilt>45</tilt>
                     <heading>0</heading>
                 </LookAt>
                 <Point>
                     <coordinates>
-                        7.6618846,47.4091114,694.96                        
+                        7.3808811,47.4664551,441.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -4507,32 +4533,6 @@
                 <Point>
                     <coordinates>
                         7.5902517,47.3893000,602.04                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-12-25T14:59:57.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.3808811</longitude>
-                    <latitude>47.4664551</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.3808811,47.4664551,441.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -4721,32 +4721,6 @@
                                                                         
             
             <Placemark>
-                <name>Eigenturm</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2026-04-29T06:50:56.209Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                     - Allseitig offen, Betonboden an der Basis                </description>       
-                <LookAt>
-                    <longitude>7.7342260</longitude>
-                    <latitude>47.5670030</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.7342260,47.5670030,518.51                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Brunnen, Wasser</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -4767,6 +4741,32 @@
                 <Point>
                     <coordinates>
                         7.3795149,47.4643335,445.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Eigenturm</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-04-29T06:50:56.209Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                     - Allseitig offen, Betonboden an der Basis                </description>       
+                <LookAt>
+                    <longitude>7.7342260</longitude>
+                    <latitude>47.5670030</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.7342260,47.5670030,518.51                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -5299,6 +5299,32 @@ Cheminee im Innern                </description>
                 <open>0</open>                        
                                                     
                 <TimeStamp>
+                    <when>2022-10-04T05:56:50.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.4314422</longitude>
+                    <latitude>47.4036967</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.4314422,47.4036967,526.39                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
                     <when>2022-10-25T07:19:47.000Z</when>
                 </TimeStamp> 
                                 
@@ -5340,32 +5366,6 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.7637396,47.5296767,401.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-10-04T05:56:50.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.4314422</longitude>
-                    <latitude>47.4036967</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.4314422,47.4036967,526.39                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -5502,32 +5502,6 @@ Cheminee im Innern                </description>
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-02-22T12:11:34.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.7441815</longitude>
-                    <latitude>47.4502640</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.7441815,47.4502640,434.68                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Waldhütte Nunningerberg</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -5548,6 +5522,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.6241902,47.3806410,895.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-02-22T12:11:34.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.7441815</longitude>
+                    <latitude>47.4502640</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.7441815,47.4502640,434.68                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -5788,32 +5788,6 @@ Cheminee im Innern                </description>
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-02-22T09:59:38.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.7606395</longitude>
-                    <latitude>47.4711547</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.7606395,47.4711547,339.51                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Blockhütte Fasnachtshübel</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -5834,6 +5808,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.5471356,47.3711378,578.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-02-22T09:59:38.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.7606395</longitude>
+                    <latitude>47.4711547</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.7606395,47.4711547,339.51                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -6157,32 +6157,6 @@ Cheminee im Innern                </description>
                 <open>0</open>                        
                                                     
                 <TimeStamp>
-                    <when>2023-05-27T06:00:14.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.6272064</longitude>
-                    <latitude>47.6573617</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.6272064,47.6573617,306.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
                     <when>2022-03-22T14:32:17.000Z</when>
                 </TimeStamp> 
                                 
@@ -6198,6 +6172,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.6757959,47.3902441,636.79                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2023-05-27T06:00:14.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.6272064</longitude>
+                    <latitude>47.6573617</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.6272064,47.6573617,306.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -6256,32 +6256,6 @@ Cheminee im Innern                </description>
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-03-22T14:30:27.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.6762679</longitude>
-                    <latitude>47.3894742</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.6762679,47.3894742,638.78                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Kastanienbäume</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -6302,6 +6276,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.4379083,47.3890483,677.25                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-03-22T14:30:27.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.6762679</longitude>
+                    <latitude>47.3894742</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.6762679,47.3894742,638.78                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -6438,6 +6438,32 @@ Cheminee im Innern                </description>
                                                                         
             
             <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2023-06-08T16:54:53.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.4426850</longitude>
+                    <latitude>47.3834006</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.4426850,47.3834006,708.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
                 <name>Brunnen, Wasser aus Schwefelquelle</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -6510,32 +6536,6 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.7835563,47.5200993,376.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2023-06-08T16:54:53.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.4426850</longitude>
-                    <latitude>47.3834006</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.4426850,47.3834006,708.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -7094,32 +7094,6 @@ Brunnen in der Stützmauer                </description>
                 <open>0</open>                        
                                                     
                 <TimeStamp>
-                    <when>2024-01-27T09:33:59.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.7846854</longitude>
-                    <latitude>47.4646959</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.7846854,47.4646959,410.58                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
                     <when>2022-07-10T13:00:02.000Z</when>
                 </TimeStamp> 
                                 
@@ -7135,6 +7109,32 @@ Brunnen in der Stützmauer                </description>
                 <Point>
                     <coordinates>
                         7.3760321,47.4088788,499.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2024-01-27T09:33:59.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.7846854</longitude>
+                    <latitude>47.4646959</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.7846854,47.4646959,410.58                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -7297,32 +7297,6 @@ Brunnen in der Stützmauer                </description>
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2023-03-07T09:09:25.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.7971605</longitude>
-                    <latitude>47.4865563</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.7971605,47.4865563,581.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Quelle, Wasser</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -7343,6 +7317,32 @@ Brunnen in der Stützmauer                </description>
                 <Point>
                     <coordinates>
                         7.7831553,47.4539912,533.37                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2023-03-07T09:09:25.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.7971605</longitude>
+                    <latitude>47.4865563</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.7971605,47.4865563,581.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -7661,32 +7661,6 @@ Brunnen in der Stützmauer                </description>
                                                                         
             
             <Placemark>
-                <name>Waldhütte Zunzgen</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-03-19T06:49:46.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                     - Holzgebäude mit Welleternitdach ist abgeschlossen, dreiseitig offene Veranda mit teilweise Holzboden ist frei zugänglich, Sitzbänke sind breit genug um darauf zu liegen, separates WC                </description>       
-                <LookAt>
-                    <longitude>7.7885560</longitude>
-                    <latitude>47.4476956</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.7885560,47.4476956,603.90                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Cabane forestière la Rochatte</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -7707,6 +7681,32 @@ Brunnen in der Stützmauer                </description>
                 <Point>
                     <coordinates>
                         7.4103680,47.3764319,790.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Waldhütte Zunzgen</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-03-19T06:49:46.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                     - Holzgebäude mit Welleternitdach ist abgeschlossen, dreiseitig offene Veranda mit teilweise Holzboden ist frei zugänglich, Sitzbänke sind breit genug um darauf zu liegen, separates WC                </description>       
+                <LookAt>
+                    <longitude>7.7885560</longitude>
+                    <latitude>47.4476956</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.7885560,47.4476956,603.90                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -7843,32 +7843,6 @@ Brunnen in der Stützmauer                </description>
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2023-05-30T10:55:02.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.6994744</longitude>
-                    <latitude>47.6602867</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.6994744,47.6602867,456.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Waldhütte Gagse</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -7889,6 +7863,32 @@ Brunnen in der Stützmauer                </description>
                 <Point>
                     <coordinates>
                         7.7278736,47.3865542,813.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2023-05-30T10:55:02.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.6994744</longitude>
+                    <latitude>47.6602867</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.6994744,47.6602867,456.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -8285,32 +8285,6 @@ Brunnen in der Stützmauer                </description>
                                                                         
             
             <Placemark>
-                <name>Kastanienbäume</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2025-09-17T10:26:28.457Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.8197967</longitude>
-                    <latitude>47.5433667</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.8197967,47.5433667,320.64                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Brunnen, Wasser</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -8331,6 +8305,32 @@ Brunnen in der Stützmauer                </description>
                 <Point>
                     <coordinates>
                         7.5525000,47.3360601,776.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Kastanienbäume</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2025-09-17T10:26:28.457Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.8197967</longitude>
+                    <latitude>47.5433667</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.8197967,47.5433667,320.64                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -9433,32 +9433,6 @@ Brunnen                </description>
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-03-19T08:37:04.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.8305522</longitude>
-                    <latitude>47.4550719</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.8305522,47.4550719,416.49                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Brunnen ,Wasser</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -9479,6 +9453,32 @@ Brunnen                </description>
                 <Point>
                     <coordinates>
                         7.4688366,47.3302867,678.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-03-19T08:37:04.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.8305522</longitude>
+                    <latitude>47.4550719</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.8305522,47.4550719,416.49                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -9615,32 +9615,6 @@ Brunnen                </description>
                                                                         
             
             <Placemark>
-                <name>Kastanienbaum</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2025-09-17T11:16:12.445Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.8416150</longitude>
-                    <latitude>47.5553117</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.8416150,47.5553117,315.92                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Brunnen, Wasser</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -9661,6 +9635,32 @@ Brunnen                </description>
                 <Point>
                     <coordinates>
                         7.8208554,47.4342051,522.29                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Kastanienbaum</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2025-09-17T11:16:12.445Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.8416150</longitude>
+                    <latitude>47.5553117</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.8416150,47.5553117,315.92                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -9823,32 +9823,6 @@ Brunnen                </description>
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser, Silberbrunnen</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2021-10-26T06:36:43.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.8286469</longitude>
-                    <latitude>47.4419925</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.8286469,47.4419925,589.24                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Steinpilz</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -9875,6 +9849,32 @@ Brunnen                </description>
                                                                         
             
             <Placemark>
+                <name>Brunnen, Wasser, Silberbrunnen</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2021-10-26T06:36:43.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.8286469</longitude>
+                    <latitude>47.4419925</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.8286469,47.4419925,589.24                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
                 <name>Waldhütte Hornen</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -9884,7 +9884,7 @@ Brunnen                </description>
                 </TimeStamp> 
                                 
                 <description>
-                     - Unterstan, einseitig offen, mit Erdboden, 2 Sitzbänke zu schmal um darauf zu liegen                </description>       
+                     - Holzunterstand mit Wellblechdach und Kiesboden, einseitig offen, 2 Sitzbänke zu schmal um darauf zu liegen                </description>       
                 <LookAt>
                     <longitude>7.7804235</longitude>
                     <latitude>47.3878471</latitude>
@@ -10066,7 +10066,7 @@ Brunnen                </description>
                 </TimeStamp> 
                                 
                 <description>
-                    No info available                </description>       
+                     - Wasser fliesst im Sommer nur schwach oder gar nicht                </description>       
                 <LookAt>
                     <longitude>7.7866891</longitude>
                     <latitude>47.3890238</latitude>
@@ -10508,7 +10508,7 @@ Brunnen                </description>
                 </TimeStamp> 
                                 
                 <description>
-                     - Hütte ist abgeschlossen, Vordachit Sitzbank                </description>       
+                     - Holzgebäude mit Wellblechdach ist abgeschlossen, schmales Vordach mit Sitzbank ist frei zugänglich                </description>       
                 <LookAt>
                     <longitude>7.8049813</longitude>
                     <latitude>47.3930401</latitude>
@@ -11280,32 +11280,6 @@ Brunnen, Wasser</name>
                                                                         
             
             <Placemark>
-                <name>Unterstand Wildblick</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-03-01T10:12:17.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                     - Unterstand mit Welleternitdach und Bretterboden, allseitig offen                </description>       
-                <LookAt>
-                    <longitude>7.7997134</longitude>
-                    <latitude>47.3707015</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.7997134,47.3707015,1010.84                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>WC</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -11326,6 +11300,32 @@ Brunnen, Wasser</name>
                 <Point>
                     <coordinates>
                         7.7109865,47.3230290,569.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Unterstand Wildblick</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-03-01T10:12:17.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                     - Unterstand mit Welleternitdach und Bretterboden, allseitig offen                </description>       
+                <LookAt>
+                    <longitude>7.7997134</longitude>
+                    <latitude>47.3707015</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.7997134,47.3707015,1010.84                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -12086,26 +12086,26 @@ Brunnen, Wasser</name>
                                                                         
             
             <Placemark>
-                <name>Höllhütte</name>                      
+                <name>Waldhütte Wischberg</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                     
                 <TimeStamp>
-                    <when>2023-05-29T07:45:07.000Z</when>
+                    <when>2026-07-02T09:09:07.728Z</when>
                 </TimeStamp> 
                                 
                 <description>
-                     - Holzgebäude mit Ziegeldach, einseitig offen, Naturboden, seitliche Sitzbank zu schmal um darauf zu liegen                </description>       
+                     - Holzgebäude mit Wellblechdach ist abgeschlossen, gedeckte dreiseitig offene Veranda ist frei zugänglich                </description>       
                 <LookAt>
-                    <longitude>7.7381355</longitude>
-                    <latitude>47.7090889</latitude>
+                    <longitude>7.8892348</longitude>
+                    <latitude>47.4741640</latitude>
                     <range>500</range>
                     <tilt>45</tilt>
                     <heading>0</heading>
                 </LookAt>
                 <Point>
                     <coordinates>
-                        7.7381355,47.7090889,580.00                        
+                        7.8892348,47.4741640,608.63                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -12132,6 +12132,32 @@ Brunnen, Wasser</name>
                 <Point>
                     <coordinates>
                         7.8809956,47.4507138,435.71                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Höllhütte</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2023-05-29T07:45:07.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                     - Holzgebäude mit Ziegeldach, einseitig offen, Naturboden, seitliche Sitzbank zu schmal um darauf zu liegen                </description>       
+                <LookAt>
+                    <longitude>7.7381355</longitude>
+                    <latitude>47.7090889</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.7381355,47.7090889,580.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -12269,32 +12295,6 @@ Cheminee im Innern                </description>
                                                                         
             
             <Placemark>
-                <name>Unterstand im Spitzgrabe</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2020-06-09T06:15:23.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                     - Holzgebäude mit Ziegeldach und Kiesboden, zweiseitig offen, Sitzbänke können zusammengestellt werden um darauf zu liegen, mehrere Sitzkissen vorhanden                </description>       
-                <LookAt>
-                    <longitude>7.8965733</longitude>
-                    <latitude>47.5396510</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.8965733,47.5396510,522.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Unterstand Cholholz</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -12315,6 +12315,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.5466309,47.2852627,809.20                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Unterstand im Spitzgrabe</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2020-06-09T06:15:23.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                     - Holzgebäude mit Ziegeldach und Kiesboden, zweiseitig offen, Sitzbänke können zusammengestellt werden um darauf zu liegen, mehrere Sitzkissen vorhanden                </description>       
+                <LookAt>
+                    <longitude>7.8965733</longitude>
+                    <latitude>47.5396510</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.8965733,47.5396510,522.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -12347,32 +12373,6 @@ Cheminee im Innern                </description>
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2023-05-29T07:31:05.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.7372360</longitude>
-                    <latitude>47.7131377</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.7372360,47.7131377,620.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Brunnen, Wasser </name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -12393,6 +12393,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.3017980,47.6714480,338.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2023-05-29T07:31:05.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.7372360</longitude>
+                    <latitude>47.7131377</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.7372360,47.7131377,620.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -12616,7 +12642,7 @@ Cheminee im Innern                </description>
                 </TimeStamp> 
                                 
                 <description>
-                     - Steingebäude einseitig offen, Naturboden                </description>       
+                     - Betonkonstruktion mit Naturboden, einseitig offen, Abfall liegt herum                </description>       
                 <LookAt>
                     <longitude>7.8085366</longitude>
                     <latitude>47.3526541</latitude>
@@ -12763,32 +12789,6 @@ Cheminee im Innern                </description>
                                                                         
             
             <Placemark>
-                <name>Manne Brünnli</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2023-05-27T09:07:08.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.6401579</longitude>
-                    <latitude>47.7471753</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.6401579,47.7471753,455.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Brunnen, Wasser</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -12809,6 +12809,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.3423650,47.3271598,525.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Manne Brünnli</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2023-05-27T09:07:08.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.6401579</longitude>
+                    <latitude>47.7471753</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.6401579,47.7471753,455.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -13518,32 +13544,6 @@ Cheminee im Innern                </description>
                                                                         
             
             <Placemark>
-                <name>Linsenmattbrünnle</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-08-11T06:20:35.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.6757768</longitude>
-                    <latitude>47.7486259</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.6757768,47.7486259,612.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Hochsitz Flüematt</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -13564,6 +13564,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.7879766,47.3258944,589.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Linsenmattbrünnle</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-08-11T06:20:35.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.6757768</longitude>
+                    <latitude>47.7486259</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.6757768,47.7486259,612.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -13986,32 +14012,6 @@ Cheminee im Innern                </description>
                                                                         
             
             <Placemark>
-                <name>Sandboden-Hütte</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-08-11T06:40:47.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                     - Bänke umlaufend, breit genug  um darauf zu liegen. Brunnen gleich daneben                </description>       
-                <LookAt>
-                    <longitude>7.6773083</longitude>
-                    <latitude>47.7531915</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.6773083,47.7531915,655.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Refuge le Cerneux</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -14032,6 +14032,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.2366216,47.3890384,903.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Sandboden-Hütte</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-08-11T06:40:47.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                     - Bänke umlaufend, breit genug  um darauf zu liegen. Brunnen gleich daneben                </description>       
+                <LookAt>
+                    <longitude>7.6773083</longitude>
+                    <latitude>47.7531915</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.6773083,47.7531915,655.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -14459,32 +14485,6 @@ Cheminee im Innern                </description>
                 <open>0</open>                        
                                                     
                 <TimeStamp>
-                    <when>2022-08-10T10:28:45.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.7494025</longitude>
-                    <latitude>47.7410165</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.7494025,47.7410165,760.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
                     <when>2023-04-30T07:57:07.000Z</when>
                 </TimeStamp> 
                                 
@@ -14500,6 +14500,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.2338965,47.3747707,659.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-08-10T10:28:45.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.7494025</longitude>
+                    <latitude>47.7410165</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.7494025,47.7410165,760.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -14896,32 +14922,6 @@ Cheminee im Innern                </description>
                                                                         
             
             <Placemark>
-                <name>Geisbrunnenhütte</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2023-05-27T11:18:57.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                     - Pavillion mit Blechdach, Betonboden, umlaufende Sitzbank zu schmal um darauf zu liegen, dreiseitig offen                </description>       
-                <LookAt>
-                    <longitude>7.6474214</longitude>
-                    <latitude>47.7753334</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.6474214,47.7753334,462.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Unterstand Moutier</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -14942,6 +14942,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.3673843,47.2821913,588.94                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Geisbrunnenhütte</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2023-05-27T11:18:57.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                     - Pavillion mit Blechdach, Betonboden, umlaufende Sitzbank zu schmal um darauf zu liegen, dreiseitig offen                </description>       
+                <LookAt>
+                    <longitude>7.6474214</longitude>
+                    <latitude>47.7753334</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.6474214,47.7753334,462.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -15046,6 +15072,110 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.3704102,47.2795495,539.08                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-07-02T13:12:54.775Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.9332700</longitude>
+                    <latitude>47.4323583</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.9332700,47.4323583,583.61                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-07-02T12:26:53.124Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.9412804</longitude>
+                    <latitude>47.4505031</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.9412804,47.4505031,589.71                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-07-02T12:29:49.486Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.9413876</longitude>
+                    <latitude>47.4501186</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.9413876,47.4501186,585.33                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-07-02T13:11:48.923Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.9340033</longitude>
+                    <latitude>47.4325217</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.9340033,47.4325217,581.91                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -15392,32 +15522,6 @@ Obergeschoss                </description>
                                                                         
             
             <Placemark>
-                <name>Waldhütte Hirschmatt</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2023-05-28T05:40:05.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                     - Holzgebäude mit Ziegeldach, Bretterboden, Fensterit Glasscheiben und Schlagladen, Türöffnung ohne Tür, Holzofen, zweiseitige seitliche Sitzbank zu schmal um darauf zu liegen, Bach nahe der Hütte                </description>       
-                <LookAt>
-                    <longitude>7.6929519</longitude>
-                    <latitude>47.7761986</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.6929519,47.7761986,915.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Container</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -15438,6 +15542,32 @@ Obergeschoss                </description>
                 <Point>
                     <coordinates>
                         7.2207749,47.3590955,582.09                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Waldhütte Hirschmatt</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2023-05-28T05:40:05.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                     - Holzgebäude mit Ziegeldach, Bretterboden, Fensterit Glasscheiben und Schlagladen, Türöffnung ohne Tür, Holzofen, zweiseitige seitliche Sitzbank zu schmal um darauf zu liegen, Bach nahe der Hütte                </description>       
+                <LookAt>
+                    <longitude>7.6929519</longitude>
+                    <latitude>47.7761986</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.6929519,47.7761986,915.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -15497,32 +15627,6 @@ Cheminee im Innern, Rollo am Eingang nur mit Schlüssel heruntetzulassen. Brunne
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2023-05-28T12:12:32.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.7403038</longitude>
-                    <latitude>47.7668489</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.7403038,47.7668489,900.27                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Cabane forestiere de Cornol</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -15544,6 +15648,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.1745096,47.4082790,540.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2023-05-28T12:12:32.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.7403038</longitude>
+                    <latitude>47.7668489</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.7403038,47.7668489,900.27                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -16727,32 +16857,6 @@ Cheminee im Innern                </description>
                 <open>0</open>                        
                                                     
                 <TimeStamp>
-                    <when>2022-05-01T09:17:07.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>8.0146126</longitude>
-                    <latitude>47.5200124</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        8.0146126,47.5200124,332.57                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
                     <when>2023-04-04T06:52:08.000Z</when>
                 </TimeStamp> 
                                 
@@ -16768,6 +16872,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.4020174,47.2248147,1087.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-05-01T09:17:07.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>8.0146126</longitude>
+                    <latitude>47.5200124</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        8.0146126,47.5200124,332.57                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -17038,32 +17168,6 @@ Brunnen                </description>
                                                                         
             
             <Placemark>
-                <name>Steinmännli für Mami</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2025-01-17T08:58:48.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>8.0008468</longitude>
-                    <latitude>47.4215617</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        8.0008468,47.4215617,696.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Unterstand</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -17084,6 +17188,32 @@ Brunnen                </description>
                 <Point>
                     <coordinates>
                         7.1056840,47.4370869,526.52                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Steinmännli für Mami</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2025-01-17T08:58:48.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>8.0008468</longitude>
+                    <latitude>47.4215617</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        8.0008468,47.4215617,696.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -17403,32 +17533,6 @@ Cheminee im Innern                </description>
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-01-11T12:04:29.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>8.0422715</longitude>
-                    <latitude>47.5094618</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        8.0422715,47.5094618,496.45                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Cabane forestiere du Chatelat</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -17449,6 +17553,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.1448102,47.3426295,817.91                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-01-11T12:04:29.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>8.0422715</longitude>
+                    <latitude>47.5094618</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        8.0422715,47.5094618,496.45                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -17559,32 +17689,6 @@ Cheminee im Innern                </description>
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2023-06-27T13:56:58.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>8.0451917</longitude>
-                    <latitude>47.5381100</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        8.0451917,47.5381100,351.67                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Unterstand Pierre de la Paix</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -17605,6 +17709,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.2622437,47.2520062,960.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2023-06-27T13:56:58.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>8.0451917</longitude>
+                    <latitude>47.5381100</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        8.0451917,47.5381100,351.67                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -18313,32 +18443,6 @@ Cheminee im Innern                </description>
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2021-04-17T10:48:36.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>8.0543950</longitude>
-                    <latitude>47.4219972</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        8.0543950,47.4219972,403.50                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Wasser</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -18359,6 +18463,32 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         7.1150314,47.3347217,706.61                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2021-04-17T10:48:36.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>8.0543950</longitude>
+                    <latitude>47.4219972</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        8.0543950,47.4219972,403.50                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -18443,6 +18573,32 @@ Cheminee im Innern                </description>
                                                                         
             
             <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-05-31T08:47:00.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.1133241</longitude>
+                    <latitude>47.3332420</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.1133241,47.3332420,713.09                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
                 <name>Waldhaus Ebni</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -18489,32 +18645,6 @@ Cheminee im Innern                </description>
                 <Point>
                     <coordinates>
                         8.0731277,47.5578434,344.18                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-05-31T08:47:00.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.1133241</longitude>
-                    <latitude>47.3332420</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.1133241,47.3332420,713.09                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -19329,32 +19459,6 @@ Brunnen                </description>
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-08-12T08:39:12.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.8474864</longitude>
-                    <latitude>47.8294610</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.8474864,47.8294610,1146.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Bruderhöhle</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -19375,6 +19479,32 @@ Brunnen                </description>
                 <Point>
                     <coordinates>
                         8.1014440,47.4813050,547.89                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-08-12T08:39:12.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.8474864</longitude>
+                    <latitude>47.8294610</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.8474864,47.8294610,1146.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -20577,32 +20707,6 @@ Brunnen                </description>
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2023-06-27T08:08:39.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>8.1491835</longitude>
-                    <latitude>47.5491989</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        8.1491835,47.5491989,505.30                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Cabane forestière de Bure</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -20623,6 +20727,32 @@ Brunnen                </description>
                 <Point>
                     <coordinates>
                         6.9752000,47.4336300,600.44                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2023-06-27T08:08:39.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>8.1491835</longitude>
+                    <latitude>47.5491989</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        8.1491835,47.5491989,505.30                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -23260,32 +23390,6 @@ Holzofen, wenig Geschirr, Pfannen, etwas Instant-Kaffee, 4ML in Holzpritschen, k
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-07-28T06:40:49.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>6.9867037</longitude>
-                    <latitude>48.0160805</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        6.9867037,48.0160805,0.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Abri La Grotte Mont-de-Vougney</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -23306,6 +23410,32 @@ Holzofen, wenig Geschirr, Pfannen, etwas Instant-Kaffee, 4ML in Holzpritschen, k
                 <Point>
                     <coordinates>
                         6.7210500,47.2387500,714.63                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-07-28T06:40:49.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>6.9867037</longitude>
+                    <latitude>48.0160805</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        6.9867037,48.0160805,0.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -24196,7 +24326,7 @@ Holzofen, wenig Geschirr, Pfannen, etwas Instant-Kaffee, 4ML in Holzpritschen, k
                                                                         
             
             <Placemark>
-                <name>Abri de BelVédère</name>                      
+                <name>Abri de Belvédère</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                     
@@ -26458,32 +26588,6 @@ Holzofen, wenig Geschirr, Pfannen, etwas Instant-Kaffee, 4ML in Holzpritschen, k
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser </name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2025-08-18T11:42:52.824Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>8.6755117</longitude>
-                    <latitude>46.5338733</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        8.6755117,46.5338733,1855.02                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Refuge Kennedy</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -26504,6 +26608,32 @@ Holzofen, wenig Geschirr, Pfannen, etwas Instant-Kaffee, 4ML in Holzpritschen, k
                 <Point>
                     <coordinates>
                         6.2383675,46.6554308,1403.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser </name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2025-08-18T11:42:52.824Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>8.6755117</longitude>
+                    <latitude>46.5338733</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        8.6755117,46.5338733,1855.02                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -29760,32 +29890,6 @@ Holzofen, wenig Geschirr, Pfannen, etwas Instant-Kaffee, 4ML in Holzpritschen, k
                                                                         
             
             <Placemark>
-                <name>Hotel Hirschen</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2026-03-22T16:48:23.208Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>9.5288460</longitude>
-                    <latitude>47.0046700</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        9.5288460,47.0046700,509.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Alpe Catègn</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -29806,6 +29910,32 @@ Holzofen, wenig Geschirr, Pfannen, etwas Instant-Kaffee, 4ML in Holzpritschen, k
                 <Point>
                     <coordinates>
                         8.5698934,46.2615736,1886.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Hotel Hirschen</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-03-22T16:48:23.208Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>9.5288460</longitude>
+                    <latitude>47.0046700</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.5288460,47.0046700,509.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -30155,32 +30285,6 @@ Holzofen, wenig Geschirr, Pfannen, etwas Instant-Kaffee, 4ML in Holzpritschen, k
                 <open>0</open>                        
                                                     
                 <TimeStamp>
-                    <when>2022-04-17T12:04:13.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>8.9407682</longitude>
-                    <latitude>46.4166177</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        8.9407682,46.4166177,1513.81                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
                     <when>2023-06-30T19:03:55.000Z</when>
                 </TimeStamp> 
                                 
@@ -30196,6 +30300,32 @@ Holzofen, wenig Geschirr, Pfannen, etwas Instant-Kaffee, 4ML in Holzpritschen, k
                 <Point>
                     <coordinates>
                         6.0609680,46.4862296,1111.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-04-17T12:04:13.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>8.9407682</longitude>
+                    <latitude>46.4166177</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        8.9407682,46.4166177,1513.81                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -31372,32 +31502,6 @@ Holzofen, wenig Geschirr, Pfannen, etwas Instant-Kaffee, 4ML in Holzpritschen, k
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-04-15T11:37:37.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>8.9629555</longitude>
-                    <latitude>46.3856617</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        8.9629555,46.3856617,701.46                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Rifugio Cortina</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -31418,6 +31522,32 @@ Holzofen, wenig Geschirr, Pfannen, etwas Instant-Kaffee, 4ML in Holzpritschen, k
                 <Point>
                     <coordinates>
                         8.3871314,46.1461795,1409.67                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-04-15T11:37:37.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>8.9629555</longitude>
+                    <latitude>46.3856617</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        8.9629555,46.3856617,701.46                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -31710,32 +31840,6 @@ Holzofen, wenig Geschirr, Pfannen, etwas Instant-Kaffee, 4ML in Holzpritschen, k
                                                                         
             
             <Placemark>
-                <name>Chateau du Falkenstein</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-07-09T10:13:30.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.5654100</longitude>
-                    <latitude>49.0049700</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.5654100,49.0049700,0.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Brunnen, Wasser</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -31756,6 +31860,32 @@ Holzofen, wenig Geschirr, Pfannen, etwas Instant-Kaffee, 4ML in Holzpritschen, k
                 <Point>
                     <coordinates>
                         8.9429998,46.3662831,333.25                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Chateau du Falkenstein</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-07-09T10:13:30.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.5654100</longitude>
+                    <latitude>49.0049700</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.5654100,49.0049700,0.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -33764,32 +33894,6 @@ Holzofen, wenig Geschirr, Pfannen, etwas Instant-Kaffee, 4ML in Holzpritschen, k
                                                                         
             
             <Placemark>
-                <name>Quelle</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2022-07-09T12:47:35.000Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>7.7396750</longitude>
-                    <latitude>49.0384500</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.7396750,49.0384500,0.00                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Brunnen, Wasser</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -33810,6 +33914,32 @@ Holzofen, wenig Geschirr, Pfannen, etwas Instant-Kaffee, 4ML in Holzpritschen, k
                 <Point>
                     <coordinates>
                         8.5370816,46.1435896,1267.28                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Quelle</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2022-07-09T12:47:35.000Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>7.7396750</longitude>
+                    <latitude>49.0384500</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        7.7396750,49.0384500,0.00                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -40322,32 +40452,6 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                 <open>0</open>                        
                                                     
                 <TimeStamp>
-                    <when>2026-05-15T16:21:27.302Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                     - Alpe Pcemuritt                </description>       
-                <LookAt>
-                    <longitude>8.9908220</longitude>
-                    <latitude>46.2008720</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        8.9908220,46.2008720,943.83                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
                     <when>2023-07-01T09:50:47.000Z</when>
                 </TimeStamp> 
                                 
@@ -40363,6 +40467,32 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                 <Point>
                     <coordinates>
                         6.1250095,46.1995839,384.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-05-15T16:21:27.302Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                     - Alpe Pcemuritt                </description>       
+                <LookAt>
+                    <longitude>8.9908220</longitude>
+                    <latitude>46.2008720</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        8.9908220,46.2008720,943.83                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -41076,6 +41206,32 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                 <open>0</open>                        
                                                     
                 <TimeStamp>
+                    <when>2026-06-28T10:40:21.186Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>9.1748650</longitude>
+                    <latitude>46.2696433</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.1748650,46.2696433,378.58                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
                     <when>2026-05-15T16:59:45.473Z</when>
                 </TimeStamp> 
                                 
@@ -41258,32 +41414,6 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                 <open>0</open>                        
                                                     
                 <TimeStamp>
-                    <when>2026-05-29T07:10:58.426Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                     - Wasser fliesst nicht                </description>       
-                <LookAt>
-                    <longitude>9.0510333</longitude>
-                    <latitude>46.1911833</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        9.0510333,46.1911833,1059.34                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Brunnen, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
                     <when>2023-07-01T09:46:46.000Z</when>
                 </TimeStamp> 
                                 
@@ -41299,6 +41429,32 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                 <Point>
                     <coordinates>
                         6.0228514,46.2122375,487.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-05-29T07:10:58.426Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                     - Wasser fliesst nicht                </description>       
+                <LookAt>
+                    <longitude>9.0510333</longitude>
+                    <latitude>46.1911833</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.0510333,46.1911833,1059.34                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -41429,6 +41585,32 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                 <Point>
                     <coordinates>
                         9.0397525,46.1827718,585.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-06-24T08:33:39.177Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>9.1296233</longitude>
+                    <latitude>46.2302200</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.1296233,46.2302200,324.25                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -41585,6 +41767,32 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                 <Point>
                     <coordinates>
                         9.0677119,46.1851344,1502.95                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-06-24T10:42:49.114Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>9.1507102</longitude>
+                    <latitude>46.2296541</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.1507102,46.2296541,1193.06                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -41981,6 +42189,32 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                                                                         
             
             <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-06-28T08:13:07.439Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>9.2251583</longitude>
+                    <latitude>46.2579417</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.2251583,46.2579417,1281.37                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
                 <name>Capanna Alp di Luarn</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -41990,17 +42224,17 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                 </TimeStamp> 
                                 
                 <description>
-                     - Steingebäude, Steinboden, DG Bretterboden zum Schlafen, Matrazen, Wolldecken, Kopfkissen, Duvet. Wasser im Haus, Kochutensilien und Lebensmittel vorhanden                </description>       
+                     - Steingebäude mit Wellblechdach und Steinboden, im DG Bretterboden zum Schlafen, Matratzen, Wolldecken, Kopfkissen, Duvet. fliessendes Wasser im Haus, Kochutensilien und Lebensmittel, Holzherd, Cheminée, elektrisches Licht, 1 220V Steckdose mit Adapter, Gasrechaud im Nebengebäude, Empfang 2/5                </description>       
                 <LookAt>
-                    <longitude>9.1706657</longitude>
-                    <latitude>46.2242501</latitude>
+                    <longitude>9.1707302</longitude>
+                    <latitude>46.2243546</latitude>
                     <range>500</range>
                     <tilt>45</tilt>
                     <heading>0</heading>
                 </LookAt>
                 <Point>
                     <coordinates>
-                        9.1706657,46.2242501,1656.00                        
+                        9.1707302,46.2243546,1653.14                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -42527,6 +42761,32 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                                                                         
             
             <Placemark>
+                <name>Quelle, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-06-25T05:35:29.400Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>9.1780258</longitude>
+                    <latitude>46.2079482</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.1780258,46.2079482,1406.21                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
                 <name>Rifugio Dolores Alpe d'Albion</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -42579,32 +42839,6 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                                                                         
             
             <Placemark>
-                <name>Quelle, Wasser</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2026-05-28T10:34:22.509Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>9.1410417</longitude>
-                    <latitude>46.1825400</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        9.1410417,46.1825400,1939.91                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Brunnen, Wasser</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -42625,6 +42859,32 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                 <Point>
                     <coordinates>
                         5.9454917,46.1974486,0.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Quelle, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-05-28T10:34:22.509Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>9.1410417</longitude>
+                    <latitude>46.1825400</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.1410417,46.1825400,1939.91                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -42744,7 +43004,7 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                 </TimeStamp> 
                                 
                 <description>
-                     - Steingebäude mit Blechdach und Holzboden, 4 Plätze in Kajütenbetten im EG und 4MI auf Bretterboden im DG, Matratzen, Wolldecken, Kopfkissen, Holzherd, Gasherd, Spühlbecken und Wasserhahnen, Kochutensilien, Lebensmittel, WC und Dusche mit Lavabos in der Hütte in separaten Raum, elektrisches Licht, 1 USP-Steckfose, Brunnen neben der Hütte, kein Empfang                </description>       
+                     - Steingebäude mit Blechdach und Holzboden, 4 Plätze in Kajütenbetten im EG und 4ML auf Bretterboden im DG (sehr heiss), Matratzen, Wolldecken, Kopfkissen, Holzherd, Gasherd, Spühlbecken und Wasserhahnen, Kochutensilien, Lebensmittel, WC und Dusche mit Lavabos in der Hütte in separaten Raum, elektrisches Licht, 1 USB-Steckdose (lädt schlecht), Brunnen neben der Hütte, kein Empfang                </description>       
                 <LookAt>
                     <longitude>9.2551228</longitude>
                     <latitude>46.2426110</latitude>
@@ -42917,6 +43177,32 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                                                                         
             
             <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-06-27T08:47:53.164Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>9.3085233</longitude>
+                    <latitude>46.2703450</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.3085233,46.2703450,1045.64                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
                 <name>Quelle, Wasser </name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -42937,6 +43223,32 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                 <Point>
                     <coordinates>
                         9.2314183,46.2215467,1972.79                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-06-27T08:43:10.628Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>9.3104567</longitude>
+                    <latitude>46.2708067</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.3104567,46.2708067,1040.23                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -43021,6 +43333,32 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                                                                         
             
             <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-06-27T08:34:30.154Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>9.3115583</longitude>
+                    <latitude>46.2696283</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.3115583,46.2696283,1042.89                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
                 <name>Rifugio Cortin</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -43058,15 +43396,15 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                 <description>
                     No info available                </description>       
                 <LookAt>
-                    <longitude>9.2060167</longitude>
-                    <latitude>46.2038500</latitude>
+                    <longitude>9.2058350</longitude>
+                    <latitude>46.2037753</latitude>
                     <range>500</range>
                     <tilt>45</tilt>
                     <heading>0</heading>
                 </LookAt>
                 <Point>
                     <coordinates>
-                        9.2060167,46.2038500,1966.71                        
+                        9.2058350,46.2037753,1974.40                        
                     </coordinates>
                 </Point>
             </Placemark>
@@ -43281,6 +43619,58 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                                                                         
             
             <Placemark>
+                <name>Brunnen, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-06-27T07:21:55.795Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>9.3140217</longitude>
+                    <latitude>46.2615150</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.3140217,46.2615150,1510.74                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Quelle, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-06-26T09:58:07.010Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>9.2673600</longitude>
+                    <latitude>46.2318333</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.2673600,46.2318333,2058.11                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
                 <name>Capanna Como CAI</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -43290,7 +43680,7 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                 </TimeStamp> 
                                 
                 <description>
-                     - Hütte ist abgeschlossen, Code für Türe muss Online angefordert werden, Entree mit Türe kann als Notunterkunft dienen, Brunnen neben der Hütte                </description>       
+                     - Steingebäude mit Blechdach, Hütte ist abgeschlossen, Code für Türe muss Online angefordert werden, Entree mit Türe kann als Notunterkunft dienen, Brunnen neben der Hütte, WIFI auch ausserhalb der Hütte                </description>       
                 <LookAt>
                     <longitude>9.2588353</longitude>
                     <latitude>46.2238047</latitude>
@@ -43411,7 +43801,59 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                                                                         
             
             <Placemark>
-                <name>Bivacco Petazzi</name>                      
+                <name>Bach, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-06-27T05:34:31.720Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>9.3161717</longitude>
+                    <latitude>46.2397267</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.3161717,46.2397267,2029.59                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Quelle, Wasser</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2026-06-26T13:17:48.118Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>9.3109183</longitude>
+                    <latitude>46.2332450</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.3109183,46.2332450,2208.63                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Bivacco Ledu Petazzi</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                     
@@ -43420,7 +43862,7 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                 </TimeStamp> 
                                 
                 <description>
-                     - Blechgebäude, 9 Liegeplätze, Matrazen, Wolldecken, Gaskocher, wenig Kochutensilien, kaum Lebensmittel, Wasser aus dem See                </description>       
+                     - Blechgebäude, 9 Liegeplätze, Matrazen, Wolldecken, Gaskocher, wenig Kochutensilien, kaum Lebensmittel, Wasser aus dem See oder ab der nahen Quelle am Weg, Empfang italienisches Netz 3/5                </description>       
                 <LookAt>
                     <longitude>9.3126077</longitude>
                     <latitude>46.2331862</latitude>
@@ -43619,32 +44061,6 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                                                                         
             
             <Placemark>
-                <name>Brunnen, Wasser </name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                    
-                <TimeStamp>
-                    <when>2025-11-06T11:28:15.370Z</when>
-                </TimeStamp> 
-                                
-                <description>
-                    No info available                </description>       
-                <LookAt>
-                    <longitude>9.0856867</longitude>
-                    <latitude>46.0763400</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        9.0856867,46.0763400,1475.12                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
                 <name>Chalet du Sac</name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
@@ -43665,6 +44081,32 @@ m 1. und 2. OG 12ML auf Holzboden, ein paar Mätteli vorhanden, Holzofen, kein W
                 <Point>
                     <coordinates>
                         5.8668800,46.1623600,0.00                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                                                                        
+            
+            <Placemark>
+                <name>Brunnen, Wasser </name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                    
+                <TimeStamp>
+                    <when>2025-11-06T11:28:15.370Z</when>
+                </TimeStamp> 
+                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>9.0856867</longitude>
+                    <latitude>46.0763400</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        9.0856867,46.0763400,1475.12                        
                     </coordinates>
                 </Point>
             </Placemark>
